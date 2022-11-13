@@ -1,1 +1,1 @@
-Created during JAVASTART.pl course.
+Created during the JAVASTART.pl course.
